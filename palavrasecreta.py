@@ -1,4 +1,3 @@
-
 import os
 
 palavra_secreta = 'comida'
